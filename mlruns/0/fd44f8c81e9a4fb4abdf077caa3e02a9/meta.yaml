@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipelines/mlruns/0/fd44f8c81e9a4fb4abdf077caa3e02a9/artifacts
+end_time: 1704108771304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd44f8c81e9a4fb4abdf077caa3e02a9
+run_name: nimble-kite-794
+run_uuid: fd44f8c81e9a4fb4abdf077caa3e02a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108771140
+status: 4
+tags: []
+user_id: LENOVO

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipelines/mlruns/0/79a83de20c4049938c5d4a070aa3ce34/artifacts
+end_time: 1704108811283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79a83de20c4049938c5d4a070aa3ce34
+run_name: brawny-gnu-103
+run_uuid: 79a83de20c4049938c5d4a070aa3ce34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108811158
+status: 4
+tags: []
+user_id: LENOVO

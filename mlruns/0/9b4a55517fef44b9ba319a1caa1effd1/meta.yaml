@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipelines/mlruns/0/9b4a55517fef44b9ba319a1caa1effd1/artifacts
+end_time: 1704108904320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b4a55517fef44b9ba319a1caa1effd1
+run_name: omniscient-midge-667
+run_uuid: 9b4a55517fef44b9ba319a1caa1effd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108904192
+status: 4
+tags: []
+user_id: LENOVO

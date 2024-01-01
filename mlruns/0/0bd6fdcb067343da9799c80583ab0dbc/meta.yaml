@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipelines/mlruns/0/0bd6fdcb067343da9799c80583ab0dbc/artifacts
+end_time: 1704108832686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bd6fdcb067343da9799c80583ab0dbc
+run_name: amazing-fly-422
+run_uuid: 0bd6fdcb067343da9799c80583ab0dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108832555
+status: 4
+tags: []
+user_id: LENOVO

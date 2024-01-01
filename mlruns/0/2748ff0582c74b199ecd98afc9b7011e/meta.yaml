@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipelines/mlruns/0/2748ff0582c74b199ecd98afc9b7011e/artifacts
+end_time: 1704108855019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2748ff0582c74b199ecd98afc9b7011e
+run_name: sneaky-cub-566
+run_uuid: 2748ff0582c74b199ecd98afc9b7011e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108854906
+status: 4
+tags: []
+user_id: LENOVO
